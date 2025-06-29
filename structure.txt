@@ -1,0 +1,14 @@
+styles/
+├── base/
+│   ├── _reset.scss
+│   ├── _variables.scss
+│   └── _typography.scss
+├── components/
+│   ├── _buttons.scss
+│   ├── _cards.scss
+│   ├── _inputs.scss
+│   └── _navbar.scss
+├── layout/
+│   ├── _container.scss
+│   └── _grid.scss
+└── main.scss
